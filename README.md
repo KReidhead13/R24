@@ -11,7 +11,7 @@ This is a simple portfolio website showcasing my projects and skills. It is buil
 
 ## Structure
 
-The website portfolio consists of the following file **index.html**:
+The website portfolio consists of the following file **index.html**;
 The CSS styles are defined in the **style.css** file.
 
 ## Contributing
