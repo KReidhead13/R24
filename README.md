@@ -4,10 +4,10 @@ This is a simple portfolio website showcasing my projects and skills. It is buil
 
 ## Features
 
-- **About Me**: Introduce yourself and provide a brief overview of your background.
-- **Skills**: Highlight your skills and expertise.
-- **Projects**: Display your projects with descriptions and links.
-- **Contact**: Provide a way for visitors to get in touch with you.
+- **About Me**: Introduces me and provides a brief overview of my background.
+- **Skills**: Highlights my skills and expertise.
+- **Projects**: Displays my projects with descriptions and links.
+- **Contact**: Provides a way for visitors to get in touch with me.
 
 ## Structure
 
